@@ -1,0 +1,9 @@
+name: Worldreset
+version: ${project.version}
+main: cloud.melion.survival.worldreset.Worldreset
+api-version: 1.16
+prefix: RESET
+authors: [ MelionCloudTeam ]
+description: WorldReset
+website: https://melion.cloud
+load: POSTWORLD
